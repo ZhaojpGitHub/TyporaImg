@@ -1,12 +1,13 @@
 # TyporaImg
 ## 已过期,无法使用
+```json
 {
   "picBed": {
     "github": {
       "repo": "ZhaojpGitHub/TyporaImg",
-      "token": "494e5d11d93d41e7a94b45d7f2209217f275d33e",
-      "path": "",
-      "customUrl": "",
+      "token": "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",
+      "path": "winMove/",
+      "customUrl": "https://github.com/",
       "branch": "master"
     },
     "current": "github",
@@ -14,3 +15,4 @@
   },
   "picgoPlugins": {}
 }
+```
