@@ -1,5 +1,4 @@
 # TyporaImg
-## 已过期,无法使用
 ```json
 {
   "picBed": {
